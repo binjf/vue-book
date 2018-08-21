@@ -1,6 +1,13 @@
 # vue-book
 尤雨溪 《vue.js 实战》 部分代码
 
+### component
+自定义组件
+### directive
+自定义指令
+### shopping-car
+简单的购物车
+
 ### 遇到问题
 
 因为没有借助工具，所以很容易出现一些低级问题。
