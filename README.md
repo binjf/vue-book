@@ -1,11 +1,11 @@
 # vue-book
 尤雨溪 《vue.js 实战》 部分代码
 
-### component
+### 1 component
 自定义组件
-### directive
+### 2 directive
 自定义指令
-### shopping-car
+### 3 shopping-car
 简单的购物车
 
 ### 遇到问题
